@@ -1,0 +1,22 @@
+body {
+    width: 800px;
+    margin-left: 300px;
+    margin-left: 300px;
+}
+.header {
+    height: 40px;
+    margin-top:2px;
+    margin-bottom: 2px;
+}
+.header>img {
+    width: 36px;
+    height: 36px;
+}
+.header>a{
+    height: 40px;
+    line-height: 40px;
+    font-size: 36px;
+}
+.introduction {
+    font-size: 28px;
+}
