@@ -8,10 +8,7 @@ body {
     margin-top:2px;
     margin-bottom: 2px;
 }
-.header>img {
-    width: 36px;
-    height: 36px;
-}
+
 .header>a{
     height: 40px;
     line-height: 40px;
@@ -19,4 +16,5 @@ body {
 }
 .introduction {
     font-size: 28px;
+    margin-top: 300px;
 }
